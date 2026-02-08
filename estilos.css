@@ -1,0 +1,29 @@
+/*CSS reset*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    margin: 10px;
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    background-color: #000000;
+    color: #d3b000;
+    padding: 30px;
+    text-align: center;
+    line-height: 20px;
+    border-radius: 30px;
+}
+h1 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+button  {
+    background-color: #d3b000;
+    color: #000000;
+    font-weight: strong;
+    padding: 10px;
+    font-size: 16px;
+    border-style: ridge;
+}
